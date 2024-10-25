@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poemDead.
-- 👀 I’m interested in web development and data science.
-- :construction_worker: I’m currently working as a investor relations coordinator in a metal meterials manufacturing campany which has nothing to do with programming.
+- 👀 I’m currently doing AI solution PoC using Azure(Azure OpenAI, App Service, CosmosDB, VM, AI Document Intelligence), AWS(Bedrock), Dify
+- 📑 Current Projects: Secure LLM Chatbot inside company(Using Dify), OCR using AI Document Intelligence, etc
 - 📫 How to reach me : hanzhangzhai@gmail.com
 
 <!---
